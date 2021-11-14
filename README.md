@@ -1,5 +1,5 @@
-<img src="https://static.adevait.com/2018/10/Why-Hiring-Female-Software-Engineers-in-Your-Startup-Is-a-Great-Idea@2x-100.jpg" >
-### Hi there , I'm Tanmayi👋
+<img src="https://static.adevait.com/2018/10/Why-Hiring-Female-Software-Engineers-in-Your-Startup-Is-a-Great-Idea@2x-100.jpg" alt="SDE" height="320px" width="100%">
+### Hi there , I'm Tanmayi 👩‍🦰 ♥️ 
 
 <!--
 **Tanmayi5/Tanmayi5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
