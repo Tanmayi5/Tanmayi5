@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any kind of Front-End projects
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about React , JavaScipt
-- 📫 How to reach me: [LinkedIn][https://www.linkedin.com/in/pitchika-tanmayi-9000491b3/]
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pitchika-tanmayi-9000491b3/)
 - 😄 Pronouns: She/Her
 <!-- - ⚡ Fun fact: --> 
 
