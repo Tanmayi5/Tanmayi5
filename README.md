@@ -1,4 +1,4 @@
-<img src="https://static.adevait.com/2018/10/Why-Hiring-Female-Software-Engineers-in-Your-Startup-Is-a-Great-Idea@2x-100.jpg" alt="SDE" height="350px" width="100%">
+<!-- <img src="https://static.adevait.com/2018/10/Why-Hiring-Female-Software-Engineers-in-Your-Startup-Is-a-Great-Idea@2x-100.jpg" alt="SDE" height="350px" width="100%"> -->
 ### Hi there , I'm Tanmayi 👩‍🦰 ♥️ 
 
 <!--
