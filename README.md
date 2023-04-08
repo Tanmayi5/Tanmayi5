@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Mern Stack
+- 🔭 I’m currently working on MERN Stack
 - 🌱 I’m currently learning Cloud Computing, Full Stack
 - 👯 I’m looking to collaborate on any kind of Front-End projects
 - 🤔 I’m looking for help with AWS
