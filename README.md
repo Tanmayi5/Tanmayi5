@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on React and Front-End Technologies
-- 🌱 I’m currently learning React, Cloud Computing, Data Structures and Algorithms
+- 🔭 I’m currently working on Mern Stack
+- 🌱 I’m currently learning Cloud Computing, Full Stack
 - 👯 I’m looking to collaborate on any kind of Front-End projects
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about React , JavaScipt
