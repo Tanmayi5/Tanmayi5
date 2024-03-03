@@ -7,12 +7,12 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning Cloud Computing, Full Stack
-- 👯 I’m looking to collaborate on any kind of Front-End projects
+- 🔭 I’m currently working on MERN Stack and DevOps
+- 🌱 I’m currently learning AWS.
+- 👯 I’m looking to collaborate on any kind of MERN stack projects, Automation projects
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about React , JavaScipt
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pitchika-tanmayi-9000491b3/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pitchika-tanmayi)
 - 😄 Pronouns: She/Her
 <!-- - ⚡ Fun fact: --> 
 
