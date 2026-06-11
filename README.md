@@ -17,22 +17,50 @@
 
 3 years shipping production infrastructure — Kubernetes clusters, CI/CD pipelines, and cloud-native platforms at scale. Now focused on the intersection of **DevOps + ML** — building internal platforms that let data science teams go from notebook to production in hours, not weeks.
 
+In my free time, I build SaaS dashboards and productivity tools — I like shipping things end-to-end.
+
 ---
 
 ### ⚡ Core Expertise
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  Platform & Infra     │  MLOps & AI Infra     │  Observability  │
-├───────────────────────┼───────────────────────┼─────────────────┤
-│  Kubernetes (adv)     │  Kubeflow             │  Prometheus     │
-│  Terraform / IaC      │  MLflow               │  Grafana        │
-│  ArgoCD / GitOps      │  Argo Workflows       │  OpenTelemetry  │
-│  Helm Charts          │  KServe               │  AIOps          │
-│  AWS (EKS, EC2)       │  vLLM / Triton        │  Alerting       │
-│  GitHub Actions / CI  │  GPU Scheduling       │  Log Analytics  │
-└───────────────────────┴───────────────────────┴─────────────────┘
-```
+<table>
+<tr>
+<td>
+
+**🏗️ Platform & Infra**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</td>
+<td>
+
+**🤖 MLOps & AI Infra**
+
+![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Argo Workflows](https://img.shields.io/badge/Argo_Workflows-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![KServe](https://img.shields.io/badge/KServe-FF6F00?style=flat-square&logo=kubernetes&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat-square&logo=ai&logoColor=white)
+![Triton](https://img.shields.io/badge/Triton-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+</td>
+<td>
+
+**📊 AIOps & Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -67,8 +95,8 @@
 
 <div align="center">
 
-**Languages:** Python · Bash · TypeScript · YAML
+**Languages:** Python · Bash · YAML
 
-*Open to roles in MLOps · AI Platform Engineering · ML Infrastructure*
+*Open to roles in MLOps · AIOps · AI Platform Engineering · ML Infrastructure*
 
 </div>
