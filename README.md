@@ -1,37 +1,74 @@
-<!-- <img src="https://static.adevait.com/2018/10/Why-Hiring-Female-Software-Engineers-in-Your-Startup-Is-a-Great-Idea@2x-100.jpg" alt="SDE" height="350px" width="100%"> -->
-### Hi there , I'm Tanmayi 👩‍🦰 ♥️ 
+<div align="center">
 
-<!--
-**Tanmayi5/Tanmayi5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tanmayi Pitchika
 
-Here are some ideas to get you started:
--->
+**Platform Engineer** · Kubernetes · MLOps · AI Infrastructure
 
-- 🔭 I’m currently working on MERN Stack and DevOps
-- 🌱 I’m currently learning AWS.
-- 👯 I’m looking to collaborate on any kind of MERN stack projects, Automation projects
-- 🤔 I’m looking for help with AWS
-- 💬 Ask me about React , JavaScipt
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pitchika-tanmayi)
-- 😄 Pronouns: She/Her
-<!-- - ⚡ Fun fact: --> 
+*I build the platforms that train, serve, and scale ML models in production.*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/pitchika-tanmayi)
+[![KodeKloud](https://img.shields.io/badge/KodeKloud-7B2D8B?style=for-the-badge&logo=kubernetes&logoColor=white)](https://engineer.kodekloud.com/profile)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayi5&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayi5" /> </p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pitchika tanmayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pitchika tanmayi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tanmayipitchika5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanmayipitchika5" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tanmayi05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanmayi05" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+### 👋 About
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmayi5&show_icons=true&locale=en&layout=compact" alt="tanmayi5" /></p>
+3 years shipping production infrastructure — Kubernetes clusters, CI/CD pipelines, and cloud-native platforms at scale. Now focused on the intersection of **DevOps + ML** — building internal platforms that let data science teams go from notebook to production in hours, not weeks.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmayi5&show_icons=true&locale=en" alt="tanmayi5" /></p>
+---
 
+### ⚡ Core Expertise
 
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  Platform & Infra     │  MLOps & AI Infra     │  Observability  │
+├───────────────────────┼───────────────────────┼─────────────────┤
+│  Kubernetes (adv)     │  Kubeflow             │  Prometheus     │
+│  Terraform / IaC      │  MLflow               │  Grafana        │
+│  ArgoCD / GitOps      │  Argo Workflows       │  OpenTelemetry  │
+│  Helm Charts          │  KServe               │  AIOps          │
+│  AWS (EKS, EC2)       │  vLLM / Triton        │  Alerting       │
+│  GitHub Actions / CI  │  GPU Scheduling       │  Log Analytics  │
+└───────────────────────┴───────────────────────┴─────────────────┘
+```
+
+---
+
+### 🔨 What I'm building
+
+| Project | Stack | Status |
+|---------|-------|--------|
+| **MLOps Platform on K8s** | Argo Workflows + MLflow + KServe | 🔧 In Progress |
+| **LLM Serving Infra** | vLLM + K8s GPU autoscaling + Triton | 🔧 In Progress |
+| **AIOps Observability** | Prometheus + ML anomaly detection | 📐 Designing |
+| **K8s Operator** | Go + custom CRDs for ML workloads | 📐 Planned |
+
+---
+
+### 📜 Certifications
+
+| Cert | Status |
+|------|--------|
+| CKA — Certified Kubernetes Administrator | 📖 Preparing |
+| Terraform Associate | 📖 Planned |
+| CKAD / CKS | 🎯 2027 |
+
+---
+
+### 🧠 Philosophy
+
+> Ship infrastructure that makes ML teams autonomous.  
+> Automate everything. Observe everything. Scale anything.  
+> The best platform is the one nobody notices — it just works.
+
+---
+
+<div align="center">
+
+**Languages:** Python · Go · Bash · HCL · TypeScript
+
+*Open to roles in MLOps · AI Platform Engineering · ML Infrastructure*
+
+</div>
