@@ -43,7 +43,7 @@
 | **MLOps Platform on K8s** | Argo Workflows + MLflow + KServe | 🔧 In Progress |
 | **LLM Serving Infra** | vLLM + K8s GPU autoscaling + Triton | 🔧 In Progress |
 | **AIOps Observability** | Prometheus + ML anomaly detection | 📐 Designing |
-| **K8s Operator** | Go + custom CRDs for ML workloads | 📐 Planned |
+| **K8s Operator** | Python + custom CRDs for ML workloads | 📐 Planned |
 
 ---
 
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-**Languages:** Python · Go · Bash · HCL · TypeScript
+**Languages:** Python · Bash · TypeScript · YAML
 
 *Open to roles in MLOps · AI Platform Engineering · ML Infrastructure*
 
